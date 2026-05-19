@@ -1,6 +1,6 @@
 # Dokumentasi
 ---
-![Pecobaan 6A](../dokumentasi/Percobaan_6A.jpeg)
+![Pecobaan 6A](../Dokumentasi/Percobaan_6A.jpeg)
 
 ---
-![Percobaan 6B](../dokumentasi/Percobaan_6B.jpeg)
+![Percobaan 6B](../Dokumentasi/Percobaan_6B.jpeg)
