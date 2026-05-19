@@ -1,0 +1,1 @@
+# Link Simulasi : https://www.tinkercad.com/things/b2RDeFknWx7-praktikum-sismik-pertemuan-6?sharecode=vIGUk5DE19Ip02YFpj5eF4Hf2iE1KnhPDIItwtV85-8
